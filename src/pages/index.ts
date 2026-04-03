@@ -1,0 +1,10 @@
+export { LoginPage } from './LoginPage';
+export { DashboardPage } from './DashboardPage';
+export { ChatPage } from './ChatPage';
+export { PortfolioPage } from './PortfolioPage';
+export { ProfilePage } from './ProfilePage';
+export { RecommendationsPage } from './RecommendationsPage';
+export { AdminSupervisionPage } from './AdminSupervisionPage';
+export { AdminUsersPage } from './AdminUsersPage';
+export { AdminValidationPage } from './AdminValidationPage';
+export { AdminSettingsPage } from './AdminSettingsPage';
